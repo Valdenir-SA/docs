@@ -61,6 +61,7 @@ After adding a new SSH key to your {% data variables.product.product_name %} acc
   {% tip %}
 
   **Tip:** If `clip` isn't working, you can locate the hidden `.ssh` folder, open the file in your favorite text editor, and copy it to your clipboard.
+  cat < ~/.ssh/id_ed25519.pub
 
   {% endtip %}
 
